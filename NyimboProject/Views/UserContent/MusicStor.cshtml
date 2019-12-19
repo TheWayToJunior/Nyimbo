@@ -1,0 +1,23 @@
+﻿@model IEnumerable<NyimboProject.Models.Song>
+
+@{
+    ViewBag.Title = "MusicStor";
+}
+
+<h2 style="margin: 100px 0 0 140px;">MusicStor: @ViewBag.Name</h2>
+
+<div class="container" style="margin-top: 40px;">
+    @foreach (var item in Model)
+    {
+        <div class="song">
+            <div class="song__backColor" id="@item.Id" onClick="btnClick(this,'@item.Name', '@item.Performer', '@item.SongPaht', '@item.ImgPaht')">
+                <div class="song__line">
+                    <div class="song__text">
+                        <p class="song__name">@item.Name</p>
+                        <p class="song__name2">@item.Performer</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

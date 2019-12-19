@@ -1,0 +1,421 @@
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\NyimboProject.dll.config
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\NyimboProject.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\NyimboProject.pdb
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\csc.exe
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\csc.exe.config
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\csc.rsp
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\csi.exe
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\csi.exe.config
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\csi.rsp
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.AppContext.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Collections.Immutable.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Console.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.IO.Compression.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.IO.FileSystem.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.ValueTuple.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XPath.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\vbc.exe
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\vbc.exe.config
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\vbc.rsp
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\VBCSCompiler.exe
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\VBCSCompiler.exe.config
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Antlr3.Runtime.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Microsoft.Web.Infrastructure.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Newtonsoft.Json.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.Helpers.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.Mvc.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.Optimization.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.Razor.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.Deployment.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.Razor.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\WebGrease.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.Helpers.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.Mvc.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.Optimization.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.Razor.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.Deployment.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.Razor.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Newtonsoft.Json.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Antlr3.Runtime.pdb
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\ru\System.Web.Helpers.resources.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\ru\System.Web.Mvc.resources.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\ru\System.Web.Optimization.resources.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\ru\System.Web.Razor.resources.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.resources.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.CoreCompileInputs.cache
+D:\С#\ASP .NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.CopyComplete
+D:\С#\ASP .NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.pdb
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\EntityFramework.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\EntityFramework.SqlServer.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\EntityFramework.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\EntityFramework.SqlServer.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Id3.Net.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\JetBrains.Annotations.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\Id3.Net.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\JetBrains.Annotations.xml
+D:\С#\ASP .NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.Migrations.InitialCreate.resources
+D:\С#\ASP .NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.GenerateResource.cache
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Net.Http.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Net.Sockets.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\С#\ASP .NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csprojAssemblyReference.cache
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\NyimboProject.dll.config
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\NyimboProject.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\NyimboProject.pdb
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\csc.exe
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\csc.exe.config
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\csc.rsp
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\csi.exe
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\csi.exe.config
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\csi.rsp
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.AppContext.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Collections.Immutable.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Console.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.IO.Compression.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.IO.FileSystem.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Net.Http.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Net.Sockets.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.ValueTuple.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XPath.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\vbc.exe
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\vbc.exe.config
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\vbc.rsp
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\VBCSCompiler.exe
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\roslyn\VBCSCompiler.exe.config
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Antlr3.Runtime.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\EntityFramework.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\EntityFramework.SqlServer.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Id3.Net.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\JetBrains.Annotations.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Microsoft.Web.Infrastructure.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Newtonsoft.Json.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.Helpers.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.Mvc.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.Optimization.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.Razor.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.Deployment.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.Razor.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\WebGrease.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\EntityFramework.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\EntityFramework.SqlServer.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Id3.Net.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\JetBrains.Annotations.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.Helpers.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.Mvc.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.Optimization.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.Razor.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.Deployment.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\System.Web.WebPages.Razor.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Newtonsoft.Json.xml
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\Antlr3.Runtime.pdb
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\ru\System.Web.Helpers.resources.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\ru\System.Web.Mvc.resources.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\ru\System.Web.Optimization.resources.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\ru\System.Web.Razor.resources.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.resources.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csprojAssemblyReference.cache
+D:\С#\ASP.NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.Migrations.InitialCreate.resources
+D:\С#\ASP.NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.GenerateResource.cache
+D:\С#\ASP.NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.CoreCompileInputs.cache
+D:\С#\ASP.NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.CopyComplete
+D:\С#\ASP.NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.dll
+D:\С#\ASP.NET\NyimboProject\NyimboProject\obj\Debug\NyimboProject.pdb
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\NyimboProject.dll.config
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\NyimboProject.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\NyimboProject.pdb
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\csc.exe
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\csc.exe.config
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\csc.rsp
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\csi.exe
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\csi.exe.config
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\csi.rsp
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.AppContext.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Collections.Immutable.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Console.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.IO.Compression.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.IO.FileSystem.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Net.Http.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Net.Sockets.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.ValueTuple.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XPath.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\vbc.exe
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\vbc.exe.config
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\vbc.rsp
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\VBCSCompiler.exe
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\roslyn\VBCSCompiler.exe.config
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Antlr3.Runtime.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\EntityFramework.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\EntityFramework.SqlServer.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Id3.Net.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\JetBrains.Annotations.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Web.Infrastructure.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Newtonsoft.Json.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.Helpers.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.Mvc.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.Optimization.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.Razor.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.WebPages.Deployment.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.WebPages.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.WebPages.Razor.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\WebGrease.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\EntityFramework.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\EntityFramework.SqlServer.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Id3.Net.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\JetBrains.Annotations.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.Helpers.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.Mvc.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.Optimization.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.Razor.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.WebPages.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.WebPages.Deployment.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\System.Web.WebPages.Razor.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Newtonsoft.Json.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Antlr3.Runtime.pdb
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\ru\System.Web.Helpers.resources.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\ru\System.Web.Mvc.resources.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\ru\System.Web.Optimization.resources.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\ru\System.Web.Razor.resources.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.resources.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.Migrations.InitialCreate.resources
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.GenerateResource.cache
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.CoreCompileInputs.cache
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.CopyComplete
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.pdb
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csprojAssemblyReference.cache
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Owin.dll
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.Migrations.Delete_UserID2.resources
+D:\С#\ASP.NET\ASP.NET MVC\NyimboProject\NyimboProject\obj\Debug\NyimboProject.Migrations.addNikcName.resources
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\NyimboProject.dll.config
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\NyimboProject.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\NyimboProject.pdb
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\csc.exe
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\csc.exe.config
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\csc.rsp
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\csi.exe
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\csi.exe.config
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\csi.rsp
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.AppContext.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Collections.Immutable.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Console.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.IO.Compression.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.IO.FileSystem.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Net.Http.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Net.Sockets.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.ValueTuple.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XPath.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\vbc.exe
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\vbc.exe.config
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\vbc.rsp
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\VBCSCompiler.exe
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\roslyn\VBCSCompiler.exe.config
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Antlr3.Runtime.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\EntityFramework.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\EntityFramework.SqlServer.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Id3.Net.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\JetBrains.Annotations.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Web.Infrastructure.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Newtonsoft.Json.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Owin.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.Helpers.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.Mvc.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.Optimization.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.Razor.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.WebPages.Deployment.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.WebPages.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.WebPages.Razor.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\WebGrease.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\EntityFramework.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\EntityFramework.SqlServer.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Id3.Net.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\JetBrains.Annotations.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.Helpers.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.Mvc.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.Optimization.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.Razor.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.WebPages.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.WebPages.Deployment.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\System.Web.WebPages.Razor.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Newtonsoft.Json.xml
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\Antlr3.Runtime.pdb
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\ru\System.Web.Helpers.resources.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\ru\System.Web.Mvc.resources.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\ru\System.Web.Optimization.resources.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\ru\System.Web.Razor.resources.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.resources.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csprojAssemblyReference.cache
+D:\С#\.NET Framework\NyimboProject\NyimboProject\obj\Debug\NyimboProject.Migrations.InitialCreate.resources
+D:\С#\.NET Framework\NyimboProject\NyimboProject\obj\Debug\NyimboProject.Migrations.Delete_UserID2.resources
+D:\С#\.NET Framework\NyimboProject\NyimboProject\obj\Debug\NyimboProject.Migrations.addNikcName.resources
+D:\С#\.NET Framework\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.GenerateResource.cache
+D:\С#\.NET Framework\NyimboProject\NyimboProject\obj\Debug\NyimboProject.csproj.CopyComplete
+D:\С#\.NET Framework\NyimboProject\NyimboProject\obj\Debug\NyimboProject.dll
+D:\С#\.NET Framework\NyimboProject\NyimboProject\obj\Debug\NyimboProject.pdb

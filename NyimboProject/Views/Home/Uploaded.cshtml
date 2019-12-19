@@ -1,0 +1,46 @@
+﻿@using NyimboProject.Models.UploadedModel
+@model  UploadedModelView
+@{
+    ViewBag.Title = "Uploaded";
+}
+
+<div class="container" style="display: flex; justify-content: center;">
+    <div class="uploed_form">
+        @using (Html.BeginForm("Uploaded", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+
+            <div style="display: flex;">
+                <div>
+                    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+                    <div class="example-1">
+                        <div class="form-group">
+                            <label class="label">
+                                <i class="material-icons">attach_file</i>
+                                <span class="title">Add .mp3 File</span>
+                                @Html.TextBoxFor(m => m.Music.File, new { type = "file", accept = "audio/mp3" })
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+                    <div class="example-1">
+                        <div class="form-group">
+                            <label class="label">
+                                <i class="material-icons">attach_file</i>
+                                <span class="title">Add .jpg File</span>
+                                @Html.TextBoxFor(m => m.Image.File, new { type = "file", accept = "image/jpeg" })
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <p>Название песни: @Html.TextBox("nameSong", "", new { @class = "form-control text-box single-line" })</p>
+            <p>Исполнитель: @Html.TextBox("performer", "", new { @class = "form-control text-box single-line" })</p>
+            <input class="btn btn-default" type="submit" name="Submit" value="Upload" />
+        }
+    </div>
+</div>

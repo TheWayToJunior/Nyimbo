@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+    AjaxOptions ajax = new AjaxOptions
+    {
+        UpdateTargetId = "songsList"
+    };
+}
+
+<div class="SearchBlock container">
+    @using (Ajax.BeginForm("GetSongs", ajax))
+    {
+        <input type="text" class="Search" name="filter" value="@ViewBag.Filter" id="TextBox1" placeholder="Search..." />
+
+        <span>
+            <img src="~/Content/img/Search_img.png" class="btnSearch" width="20" height="20" id="btnSearch" />
+        </span>
+    }
+</div>
+
+<div class="intro">
+    <div class="container">
+        <div class="intro__content">
+            <div class="intro__img">
+                <img class="intro__img__upload" src="@ViewBag.FirstSong.ImgPaht" width="325" height="330" id="introImg" />
+            </div>
+
+            <div class="intro__text">
+                <h1 class="intro__main__text">NEW SINGLE</h1>
+                <h1 class="intro__sub__text">OUT NOW!</h1>
+
+                <div class="intro__subtitle">
+                    <input type="hidden" id="introSongId" value="@ViewBag.FirstSong.Id" />
+                    <h3 id="introNameSong">@ViewBag.FirstSong.Name</h3>
+                    <h3 class="intro__subtitle2" id="introPerformer">@ViewBag.FirstSong.Performer</h3>
+                </div>
+
+                <h6 class="intro__color__text">
+                    This sad music will help you understand not only yourself.<br />But also the world around you.
+                </h6>
+                <a class="btn" href="/Home/Download/@ViewBag.FirstSong.Id" id="btnDownload">Download</a>
+
+                <div>
+                    <a class="intro__color__text" href="/Home/SetImage/" id="modalImage">UploadImg</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modDialog" class="modal fade">
+        <div id="dialogContent" class="modal-dialog"></div>
+    </div>
+</div>
+
+<br />
+
+<div class="songsList container" id="songsList">
+        @Html.Action("GetSongs")
+</div>

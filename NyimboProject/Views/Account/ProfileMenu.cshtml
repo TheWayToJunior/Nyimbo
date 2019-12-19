@@ -1,0 +1,18 @@
+﻿
+<div class="content-profile" id="focus">
+
+    <div class="img-profile"></div>
+    <div class="text-profile-bold">@ViewData["NickName"]</div>
+    <div class="text-profile-solid">@ViewData["Email"]</div>
+
+    <div style="margin: 25px 0;">
+        <div class="button-profile-top" onclick="location.href='@Url.Action("MusicStor","UserContent")';">
+            Music Stor
+        </div>
+        <div class="button-profile-bottom" onclick="location.href='@Url.Action("Index","Home")';">
+            Playlist
+        </div>
+    </div>
+
+    @Html.ActionLink("Login Off", "LoginOff", "Account")
+</div>

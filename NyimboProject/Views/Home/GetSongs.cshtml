@@ -1,0 +1,24 @@
+﻿@model NyimboProject.Models.PageNavigation.IndexViewModel
+@using NyimboProject.HtmlHelpers
+
+
+@foreach (var item in Model.Songs)
+{
+    <div class="song">
+        <div class="song__backColor" id="@item.Id" onClick="btnClick(this,'@item.Name', '@item.Performer', '@item.SongPaht', '@item.ImgPaht')">
+            <div class="song__line">
+                <div class="song__text">
+                    <p class="song__name">@item.Name</p>
+                    <p class="song__name2">@item.Performer</p>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<br />
+<div class="pages">
+    @Ajax.PageLinks(Model.PageInfo, DirectionMode.Left)
+    <div class="page__text">@Model.PageInfo.PageNumber из @Model.PageInfo.TotalPage</div>
+    @Ajax.PageLinks(Model.PageInfo, DirectionMode.Right)
+
+</div>

@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>yimbo</title>
+    <link rel="SHORTCUT ICON" href="~/icon.ico" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/Style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container" style="position:relative; /*max-width:88% !important;*/">
+            <div class="header__inner">
+                <div class="logo">
+                    <a class="logo__link" href="/Home/Index"><img src="~/Content/img/yimbo.png" alt="icon-linkedin" width="114" height="44"></a>
+                </div>
+
+                <nav class="nav">
+                    <ul>
+                        <li><a class="nav__link" href="/Home/Index">HOME .</a></li>
+                        <li><a class="nav__link" href="/Home/Uploaded">UPLOADED .</a></li>
+                        <li><a class="nav__link" href="">CONTACT .</a></li>
+                        <li>
+                            <div class="menu-profile">
+                                <a class="nav__link" href="#" id="button_prof" aria-expanded="false">PROFILE .</a>
+                                <div class="gb_Sa"></div>
+                            </div>
+                            <div class="menu-profile-list">
+                                @Html.Action("Menu", "Account")
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div class="main_div">
+        @RenderBody()
+    </div>
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/Scripts/Script.js")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

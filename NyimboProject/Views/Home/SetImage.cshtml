@@ -1,0 +1,53 @@
+﻿@model NyimboProject.Models.UploadedModel.UploadedImage
+
+<div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Set Image</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            @using (Html.BeginForm("SetImage", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <table @*align="center"*@ style="margin: auto">
+                    <tr>
+                        <td><input type="hidden" name="id" id="modalHiddenId" /></td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2">
+                            @*<div class="modalInputFile">*@
+                                <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+                                <div class="example-1">
+                                    <div class="form-group">
+                                        <label class="label">
+                                            <i class="material-icons">attach_file</i>
+                                            <span class="title">Add File</span>
+                                            @Html.TextBoxFor(m => m.File, new { type = "file", accept = "image/jpeg" })
+                                            @Html.ValidationMessageFor(m => m.FileName)
+                                        </label>
+                                    </div>
+                                </div>
+                            @*</div>*@
+                        </td>
+                        <td align="center">
+                            @*<div class="modalContentTexnt">*@
+                                @Html.Label("modalName", "name", new { id = "modalName", @class = "modalText" })
+                                <br />
+                                @Html.Label("modalPerformer", "performer", new { id = "modalPerformer", @class = "modalTextColor" })
+                            @*</div>*@
+                        </td>
+                    </tr>
+                    <tr>
+                        @*<td> @Html.Label("modalPerformer", "performer", new { id = "modalPerformer", @class = "modalText" })</td>*@
+                    </tr>
+                    <tr>
+                        <td colspan="2" align="center"> <input type="submit" class="btn" value="Replace" /></td>
+                    </tr>
+                </table>
+            }
+        </div>
+    </div>
+</div>
